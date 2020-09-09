@@ -25,7 +25,7 @@ Somos uma empresa focada em tornar a vida das pessoas mais felizes, provendo sol
 * Escolha de ferramentas, transpiladores, pré-processadores, task-runners, bundlers, etc.
 
 ## Critérios de avaliação
-Temos uma equipe de alto nível que prioriza uma boa organização ao utilizar Git e estruturar arquivos e pastas, isso são reflexos da sua eficiência ao trabalhar em equipe, algo **essencial** por aqui , portanto será levado muito em consideração.
+Temos uma equipe de alto nível que prioriza uma boa organização ao utilizar Git e estruturar arquivos e pastas, isso são reflexos da sua eficiência ao trabalhar em equipe, algo **essencial** por aqui, portanto será levado muito em consideração.
 
 ## Entregando o teste
 
