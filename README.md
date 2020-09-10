@@ -21,6 +21,7 @@ Somos uma empresa focada em tornar a vida das pessoas mais felizes, provendo sol
 
 ## Bonus points
 * Criatividade
+* Utilização de TypeScript
 * Arquitetura e organização do código - [DRY](https://webstandardssherpa.com/reviews/think-modularly).
 * Escolha de ferramentas, transpiladores, pré-processadores, task-runners, bundlers, etc.
 
@@ -30,20 +31,18 @@ Temos uma equipe de alto nível que prioriza uma boa organização ao utilizar G
 ## Entregando o teste
 
 * Crie uma issue aqui neste repositório, com as seguintes informações:
-  * Título _"Vaga Desenvolvedora"_ ou _"Vaga Desenvolvedor"_ (de acordo com o perfil que está se candidatando)
+  * Título _**"Vaga Desenvolvedora"**_ ou _**"Vaga Desenvolvedor"**_ (de acordo com o perfil que está se candidatando)
   * URL do teste hospedado (para que possamos visualizar o resultado final do teste)
   * Nome completo
 
-* Não esquecer de enviar seu currículo por e-mail para _**recrutamento@pling.net.br**_, seguindo estas diretrizes:
-  * Assunto _"Vaga Desenvolvedora"_ ou _"Vaga Desenvolvedor"_ (de acordo com o perfil que está se candidatando).
+* Não esquecer de enviar seu currículo por e-mail para _**cv@pling.net.br**_, seguindo estas diretrizes:
+  * Assunto _**"Vaga Desenvolvedora"**_ ou _**"Vaga Desenvolvedor"**_ (de acordo com o perfil que está se candidatando).
   
 - Não faça PR (pull request) para este repositório 
 - Não esqueça de fornecer a URL do seu github, ex: https://github.com/plingbr
 - Enviar arquivo `.tar.gz` para os e-mails: _**felipe.kautzmann@pling.net.br**_ _**leonardo.santos@pling.net.br**_.
 
----
-
-#### Boa sorte!
+# Boa sorte!
 
 <a href="https://www.pling.net.br" target="_blank"><img width="150" alt="Pling hero" src="https://crors.org.br/wp-content/uploads/2019/08/pling-.png"/></a>
 
