@@ -16,7 +16,7 @@ Somos uma empresa focada em tornar a vida das pessoas mais felizes, provendo sol
 * HTML, CSS e JavaScript;
 * [ReactJS](https://reactjs.org/);
 * Responsive Design;
-* Micro API REST em GoLang ou NodeJS;
+* Micro API REST em [GoLang](https://golang.org/) ou [NodeJS](https://nodejs.org/);
 * Hospedagem do projeto(Vercel, Surge.sh, Heroku, Netlify, etc.);
 
 ## Habilidades extras
