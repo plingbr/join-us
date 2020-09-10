@@ -12,19 +12,20 @@ Somos uma empresa focada em tornar a vida das pessoas mais felizes, provendo sol
 **[IMPORTANTE] Leia os [critérios de avaliação](#critérios-de-avaliação).**
 
 ## Habilidades necessárias
-* Git;
+* [Git](https://git-scm.com/);
 * HTML, CSS e JavaScript;
 * [ReactJS](https://reactjs.org/);
+* [MongoDB](https://docs.mongodb.com/);
 * Responsive Design;
 * Micro API REST em [GoLang](https://golang.org/) ou [NodeJS](https://nodejs.org/);
 * Hospedagem do projeto(Vercel, Surge.sh, Heroku, Netlify, etc.);
 
 ## Habilidades extras
 
-* Criatividade
-* Utilização de TypeScript
-* Arquitetura e organização do código - [DRY](https://webstandardssherpa.com/reviews/think-modularly).
-* Escolha de ferramentas, transpiladores, pré-processadores, task-runners, bundlers, etc.
+* Criatividade;
+* Utilização de [TypeScript](https://www.typescriptlang.org/);
+* Arquitetura e organização do código - [DRY](https://webstandardssherpa.com/reviews/think-modularly);
+* Escolha de ferramentas, transpiladores, pré-processadores, task-runners, bundlers, etc;
 
 ## Critérios de avaliação
 Temos uma equipe de alto nível que prioriza uma boa organização ao utilizar Git e estruturar arquivos e pastas, isso são reflexos da sua eficiência ao trabalhar em equipe, algo **essencial** por aqui, portanto será levado muito em consideração.
