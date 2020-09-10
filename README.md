@@ -21,7 +21,7 @@ Somos uma empresa focada em tornar a vida das pessoas mais felizes, provendo sol
 
 ## Bonus points
 * Criatividade
-* Arquitetura e organização do código - [DRY]((https://webstandardssherpa.com/reviews/think-modularly).
+* Arquitetura e organização do código - [DRY](https://webstandardssherpa.com/reviews/think-modularly).
 * Escolha de ferramentas, transpiladores, pré-processadores, task-runners, bundlers, etc.
 
 ## Critérios de avaliação
