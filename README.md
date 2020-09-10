@@ -11,7 +11,7 @@ Somos uma empresa focada em tornar a vida das pessoas mais felizes, provendo sol
 
 **[IMPORTANTE] Leia os [critérios de avaliação](#critérios-de-avaliação).**
 
-## Obrigatório
+## Habilidades necessárias
 * Git;
 * HTML, CSS e JavaScript;
 * [ReactJS](https://reactjs.org/);
@@ -19,7 +19,8 @@ Somos uma empresa focada em tornar a vida das pessoas mais felizes, provendo sol
 * Micro API REST em GoLang ou NodeJS;
 * Hospedagem do projeto(Vercel, Surge.sh, Heroku, Netlify, etc.);
 
-## Bonus points
+## Habilidades extras
+
 * Criatividade
 * Utilização de TypeScript
 * Arquitetura e organização do código - [DRY](https://webstandardssherpa.com/reviews/think-modularly).
